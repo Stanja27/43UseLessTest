@@ -8,6 +8,7 @@ namespace _43UseLessTest
 {
     public class UseLessClass
     {
+        //en ny kommentar
         public string GetOutput(int number)
         {
 
