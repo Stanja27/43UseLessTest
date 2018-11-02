@@ -9,14 +9,14 @@ namespace _43UseLessTest
     public class UseLessClass
     {
         //en ny kommentar
+        
         public string GetOutput(int number)
         {
 
             if ((number % 3 == 0) && (number % 5 == 0))
 
                 return "Absurd Nonsense";
-
-
+         
             if (number % 3 == 0)
 
                 return "Absurd";
